@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Record Keeper</string>
+    <string name="running">Running</string>
+    <string name="cycling">Cycling</string>
+    <string name="fragment_running_description">This is Running Fragment</string>
+    <string name="fragment_cycling_description">This is Cycling Fragment</string>
+    <string name="_5km">5km</string>
+    <string name="_10km">10km</string>
+    <string name="_15km">15km</string>
+    <string name="half_marathon">Half Marathon</string>
+    <string name="marathon">Marathon</string>
+    <string name="longest_ride">Longest Ride</string>
+    <string name="biggest_climb">Biggest Climb</string>
+    <string name="best_average_speed">Best Average Speed</string>
+</resources>
